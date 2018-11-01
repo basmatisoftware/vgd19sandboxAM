@@ -1,0 +1,7 @@
+C:\VGD\Sandbox\Sandbox\bin\Debug\Sandbox.exe.config
+C:\VGD\Sandbox\Sandbox\bin\Debug\Sandbox.exe
+C:\VGD\Sandbox\Sandbox\bin\Debug\Sandbox.pdb
+C:\VGD\Sandbox\Sandbox\obj\Debug\Sandbox.csprojAssemblyReference.cache
+C:\VGD\Sandbox\Sandbox\obj\Debug\Sandbox.csproj.CoreCompileInputs.cache
+C:\VGD\Sandbox\Sandbox\obj\Debug\Sandbox.exe
+C:\VGD\Sandbox\Sandbox\obj\Debug\Sandbox.pdb
